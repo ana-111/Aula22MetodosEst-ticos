@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEstáticos.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEstáticos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEstáticos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEstáticos.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEstáticos.exe
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEstáticos.deps.json
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEstáticos.runtimeconfig.json
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEstáticos.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEstáticos.dll
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\bin\Debug\netcoreapp3.1\Aula22MetodosEstáticos.pdb
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEstáticos.dll
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEstáticos.pdb
+C:\Users\Pichau\Documents\Aula22MetodosEstáticos\obj\Debug\netcoreapp3.1\Aula22MetodosEstáticos.genruntimeconfig.cache
